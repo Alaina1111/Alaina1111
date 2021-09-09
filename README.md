@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alaina1111
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Dirt roads and mudd
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .... Ask
+- 📫 How to reach me .... Email
 
 <!---
 Alaina1111/Alaina1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
